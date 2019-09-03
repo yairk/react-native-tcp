@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "base64-js": "0.0.8",
-    "buffer": "^5.0.0",
+    "buffer": "5.2.1",
     "events": "^1.0.2",
     "ip-regex": "^1.0.3",
     "process": "^0.11.9",
